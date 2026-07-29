@@ -34,8 +34,35 @@
 // welcome()
 // console.log("Finsh !")
 
-hello()
+// hello()
 
-function hello() {
-    console.log("Hello !")
+// function hello() {
+//     console.log("Hello !")
+// }
+
+
+// ____________________________________________________________________
+
+// function names(name) {
+//     console.log(name)
+// }
+
+// names("Ali")
+// names("Vali")
+// names("Shaxriyor")
+
+// function multiply(a, b) {
+//     return a * b;
+// }
+
+// let result = multiply(5, 4);
+
+// console.log(result);
+
+function subtract(a, b) {
+    return a - b;
 }
+
+let answer = subtract(50, 20);
+
+console.log(answer);
