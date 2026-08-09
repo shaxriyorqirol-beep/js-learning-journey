@@ -1,0 +1,15 @@
+/* .somsa {
+    color: rgb(255, 1, 1);
+} */
+
+.osh {
+    color: blue;
+}
+
+.kabob {
+    background-color: chartreuse;
+    border: 1px solid;
+    border-radius: 30px;
+    width: 150px;
+    text-align: center;
+}
